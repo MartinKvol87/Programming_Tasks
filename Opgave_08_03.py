@@ -1,6 +1,4 @@
 # Opgave 1
-from asyncio.windows_events import NULL
-
 
 def checkList(items):
     if len(items) != 8:
